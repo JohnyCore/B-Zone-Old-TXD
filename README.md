@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-# Classic Textdraw Mod v0.0.2
+# Classic Textdraw Mod v0.0.3
 
 _Classic and Nostalgic, this is what you are looking for, Enjoy a cleaner, classic textdraw experience!_ <br>
 
